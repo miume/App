@@ -1,0 +1,37 @@
+{
+  "id": "1438660",
+  "name": "App",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "248978",
+      "name": "date",
+      "font_class": "date",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "939438",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "1381397",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1446461",
+      "name": "login_user",
+      "font_class": "login_user",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}

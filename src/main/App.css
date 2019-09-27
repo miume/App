@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+.box {
+  max-width: 10rem;
+  margin-left: auto;
+  margin-right: auto;
+}

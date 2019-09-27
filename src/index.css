@@ -19,16 +19,73 @@ code {
 }
 
 .container-top {
-  color: #fff;
   font-size: 19px;
   font-weight: bolder;
-  height: 5vh;
-  line-height: 44px;
-  text-align: center;
-  padding: 20px 0 10px 0;
-  background: #0079FE 100%;
 }
 
+.container-top-flex {
+  margin-left: 20vw;
+}
+.detail-middle {
+  line-height: 20px;
+  background-color: rgba(51, 153, 255, 1);
+  border: 1px solid rgba(255, 255, 255, 0);
+  color: #fff;
+  padding: 15px;
+  font-weight: bolder;
+}
+.detail-circle {
+  height: 56px;
+  width: 56px;
+  line-height: 56px;
+  text-align: center;
+  border-radius: 50%;
+  color: #259b24;
+  background-color: #fff;
+}
+.detail-text {
+  color: rgba(247, 247, 247, 1);
+  font-size: 16px;
+  font-family: SourceHanSansSC-regular;
+  padding-bottom: 10px;
+}
+.detail-text-small {
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  font-family: SourceHanSansSC-regular;
+}
+
+.detail-title {
+  height: 39px;
+  line-height: 39px;
+  color: rgba(121, 119, 119, 1);
+  padding-left: 5px;
+  background-color: rgba(51, 153, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+.detail-title span {
+  border-left: 4px solid #0069ff;
+  padding-right: 10px;
+}
+.detail-result-record {
+  margin: 0 20px;
+  height: 35px;
+  line-height: 35px;
+  border-bottom: 1px dotted gainsboro;
+}
+.detail-result-record-index {
+  height: 20px;
+  width: 20px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: center;
+  background: #3399FF 65%;
+  border-radius: 5px;
+}
+.content-icon {
+  padding-right: 5px;
+}
 .container-search {
   height: 7vh;
 }
@@ -63,6 +120,8 @@ code {
 }
 
 .content-person {
+  color: #666;
+  font-size: 14px;
   padding-bottom: 10px;
 }
 
