@@ -1,2 +1,1 @@
-# App
-React结合ant-design-mobile写一个手机端项目
+结合react和ant-design-mobile写一个App项目
